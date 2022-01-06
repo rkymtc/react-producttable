@@ -48,7 +48,7 @@ const Login = () => {
         return (
           <div className="container text-center">
             <div>
-            <h1><img src="https://cdn.logo.com/hotlink-ok/logo-social.png" alt="display image" /></h1>
+            <h1><img src="https://cdn.logo.com/hotlink-ok/logo-social.png" width={250} height={100} alt="display image" /></h1>
             <form onSubmit={handleSubmit}>
               <div className="d-flex justify-content-center mb-3">
 

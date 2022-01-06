@@ -6,7 +6,7 @@ function App() {
       <div>
 
         <nav>
-          <h1><img src="https://cdn.logo.com/hotlink-ok/logo-social.png" alt="display image" /></h1>
+          <h1><img src="https://cdn.logo.com/hotlink-ok/logo-social.png" alt="display image" width={250} height={150}/></h1>
         </nav>
       </div>
       <hr></hr>
