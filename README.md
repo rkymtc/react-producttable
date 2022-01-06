@@ -37,6 +37,9 @@ Sunucuyu çalıştırın
 
 - Bootstrap
 - Ant Design
+- Router
+- Formik
+- Pagination
 
 
 
