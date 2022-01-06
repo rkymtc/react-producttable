@@ -31,9 +31,10 @@ Sunucuyu çalıştırın
 
 - CSS
 - JavaScript
+- React
 
 ## Kullanılan Paketler
-- React
+
 - Bootstrap
 - Ant Design
 
