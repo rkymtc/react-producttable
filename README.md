@@ -29,6 +29,10 @@ Sunucuyu çalıştırın
   
 ## Kullanılan Teknolojiler
 
+- CSS
+- JavaScript
+
+## Kullanılan Paketler
 - React
 - Bootstrap
 - Ant Design
