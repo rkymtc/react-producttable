@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App tbody {
+  margin-top: 5rem;
+  color: rgb(7, 7, 95);
+  font-size: 20px;
+}
+
+.App table {
+  font-size: 20px;
+  background-color: rgb(240, 206, 144);
+  box-shadow: 0px 2px 2px 2px black;
+  margin: 50px;
+  margin-bottom: 0px;
+}
+
+.App tr {
+  box-shadow: 0px 1px rgb(197, 109, 109);
+}
+
+.App th {
+  padding: 10px;
+  border-left: 1px solid brown;
+}
+
+.App td {
+  padding: 2rem;
+  padding-bottom: 1rem;
+  border-left: 1px solid brown;
+}
+
+
+

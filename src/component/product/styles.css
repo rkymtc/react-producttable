@@ -1,0 +1,99 @@
+.app {
+    width: 50%;
+    margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; 
+}
+
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  color: #4a4a4d;
+  font:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 100%;
+}
+tr {
+  overflow-x: scroll;
+}
+th,
+td {
+  padding: 15px 15px;
+  vertical-align: middle;
+}
+thead {
+  font-size: 12px;
+  line-height: 24px;
+  font-family: Lato;
+  border: 1px solid black;
+  max-width: 100%;
+  font-weight: 900;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  color: rgba(0, 0, 0, 0.5);
+  background: rgba(255, 255, 255, .9);
+}
+
+tbody {
+  max-width: 100%;
+}
+
+td {
+  padding: 15px 15px;
+}
+.pagination-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /* background: rgba(216, 73, 73, 0.2); */
+  width: 100%;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.pagination-container a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  /* padding: 8px 14px; */
+  height: 40px;
+  width: 40px;
+  text-decoration: none;
+  transition: background-color .2s;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  
+}
+
+.pagination-container a.active {
+  background-color: #007bff;
+  color: white;
+  border: 1px solid #7cbddb;
+}
+
+.pagination-container a.disabled { 
+  opacity: 0.2;
+}
+.pagination-container a:hover:not(.active) {background-color: rgb(238, 238, 238);}
+
+
+.new {
+  margin-top:10px;
+  position: relative;
+  overflow: hidden;
+  background-color:#F99600;
+  color:rgb(255, 255, 255);
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100px;
+  height: 35px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  margin-left: 82px;
+}
