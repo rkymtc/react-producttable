@@ -1,5 +1,5 @@
 
-Demo(https://react-producttable.netlify.app/)
+[Demo](https://react-producttable.netlify.app/)
 
 ## Bilgisayarınızda Çalıştırın
 
